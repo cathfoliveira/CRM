@@ -1,5 +1,6 @@
 # CRM
-Desenvolvimento plataforma Call Center e CRM para ERP.
+Desenvolvimento plataforma Call Center e CRM para ERP (Protheus).
+
 Plataforma para primeiro contato remoto e caso o cliente tenha interesse, pode prosseguir com o agendamento presencial. 
 Para marcar o atendimento, é possível visualizar a agenda do vendedor, verificar os dias, horários e locais já agendados.
 
